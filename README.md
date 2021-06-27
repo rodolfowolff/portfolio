@@ -12,7 +12,7 @@
 <hr><br>
 
 <p align="center">
-  <img alt="home" src=".https://i.ibb.co/ZWH8Sjx/png.png" width="70%">
+  <img alt="home" src="https://i.ibb.co/ZWH8Sjx/png.png" width="70%">
 </p>
 
 <p align="center">
@@ -26,8 +26,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NextJs](https://reactjs.org)
 
 ## 💻 Projeto
-
-O letmeask é um projeto para Criar salas de Q&A ao vivo e tirar as dúvidas da sua audiência em tempo-real
 
 Para ver o site: https://portfolio-rodolfowolff.vercel.app/
 
